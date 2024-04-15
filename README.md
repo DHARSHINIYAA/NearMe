@@ -54,11 +54,12 @@ Execute the programs and publish them.
 
 
 ## OUTPUT
-![alt text](<Screenshot 2024-04-04 084757.png>)
-![alt text](<Screenshot 2024-04-04 085400.png>)
-
-
-
+![Screenshot 2024-04-04 084757](https://github.com/DHARSHINIYAA/NearMe/assets/149560172/e7d250dc-42ad-44f8-b4da-5c07e5e6bae8)
+![Screenshot 2024-04-04 084823](https://github.com/DHARSHINIYAA/NearMe/assets/149560172/400fbc61-53c4-4d53-be63-5057a538fc63)
+![Screenshot 2024-04-04 085016](https://github.com/DHARSHINIYAA/NearMe/assets/149560172/c3b15acf-f8e9-4cfd-9c98-d95d9da9c0a7)
+![Screenshot 2024-04-04 085043](https://github.com/DHARSHINIYAA/NearMe/assets/149560172/c376df7b-92b8-4d48-9fab-d36a196707ba)
+![Screenshot 2024-04-04 085400](https://github.com/DHARSHINIYAA/NearMe/assets/149560172/5bcd99a0-62c7-4db3-b6c4-4fc3840c9295)
+![Screenshot 2024-04-04 090357](https://github.com/DHARSHINIYAA/NearMe/assets/149560172/2de7733b-0d2f-410f-9aea-2ae232e1293a)
 
 
 
