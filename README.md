@@ -24,7 +24,7 @@ Write HTML programs for all the regions identified.
 ### STEP 6
 Execute the programs and publish them.
 
-## CODE
+## CODE:
 ```
 <html>
     <head>
@@ -50,6 +50,54 @@ Execute the programs and publish them.
         </center>
     </body>
 </html>
+
+```
+Hotel
+```
+<html>
+    <head>
+        <title><b>MY CITY</b></title>
+    </head>   
+    <body bgcolor="green"> 
+        <h1 align="center">
+            <font color="black"><b>ERODE</b></font>
+            </h1>
+            <h3 align="center">
+                <font color="yellow"><b>HOTEL ATRIUM</b></font>
+                </h3>
+                <hr size="3" color="red">
+                <p align="justify">
+                    <font face="georgia" size="5" color="white">
+                        "Hotel Atrium" could refer to various hotels around the world, as "Atrium" is a common name for hotels, particularly those with spacious lobbies or central open areas. Without specific location information, it's challenging to provide details about a particular hotel named "Hotel Atrium."
+                    </font>
+                    </p>
+                    </body>
+                    </html>
+```         
+Medical
+```
+<html>
+    <head>
+        <title><b>MY CITY</b></title>
+    </head>   
+    <body bgcolor="yellow"> 
+        <h1 align="center">
+            <font color="black"><b>ERODE</b></font>
+            </h1>
+            <h3 align="center">
+                <font color="green"><b>MEDICAL CARE</b></font>
+                </h3>
+                <hr size="3" color="red">
+                <p align="justify">
+                    <font face="georgia" size="5" color="white">
+                        "Medical Care Medical Centre" is a generic name that could refer to a healthcare facility providing medical services. These centers are typically equipped to handle various healthcare needs, including general consultations, diagnostic tests, minor procedures, and sometimes specialist consultations.
+                    </font>
+                    </p>
+                    </body>
+                    </html>
+```
+Busstop
+```
 <html>
     <head>
         <title><b>MY CITY</b></title>
@@ -71,67 +119,9 @@ Local Residents or Authorities: Reach out to local residents or contact the Erod
                     </p>
                     </body>
                     </html>
-
-<html>
-    <head>
-        <title><b>MY CITY</b></title>
-    </head>   
-    <body bgcolor="green"> 
-        <h1 align="center">
-            <font color="black"><b>ERODE</b></font>
-            </h1>
-            <h3 align="center">
-                <font color="yellow"><b>HOTEL ATRIUM</b></font>
-                </h3>
-                <hr size="3" color="red">
-                <p align="justify">
-                    <font face="georgia" size="5" color="white">
-                        "Hotel Atrium" could refer to various hotels around the world, as "Atrium" is a common name for hotels, particularly those with spacious lobbies or central open areas. Without specific location information, it's challenging to provide details about a particular hotel named "Hotel Atrium."
-                    </font>
-                    </p>
-                    </body>
-                    </html>
-
-<html>
-    <head>
-        <title><b>MY CITY</b></title>
-    </head>   
-    <body bgcolor="green"> 
-        <h1 align="center">
-            <font color="black"><b>ERODE</b></font>
-            </h1>
-            <h3 align="center">
-                <font color="yellow"><b>INN RESORT</b></font>
-                </h3>
-                <hr size="3" color="red">
-                <p align="justify">
-                    <font face="georgia" size="5" color="white">
-                        "inn resort," it could be a type of accommodation that combines the features of an inn (typically a small lodging establishment offering basic services) with resort amenities (such as pools, restaurants, recreational facilities, etc.). However, without specific details or a location, it's challenging to provide precise information
-                    </font>
-                    </p>
-                    </body>
-                    </html>
-
-<html>
-    <head>
-        <title><b>MY CITY</b></title>
-    </head>   
-    <body bgcolor="yellow"> 
-        <h1 align="center">
-            <font color="black"><b>ERODE</b></font>
-            </h1>
-            <h3 align="center">
-                <font color="green"><b>MEDICAL CARE</b></font>
-                </h3>
-                <hr size="3" color="red">
-                <p align="justify">
-                    <font face="georgia" size="5" color="white">
-                        "Medical Care Medical Centre" is a generic name that could refer to a healthcare facility providing medical services. These centers are typically equipped to handle various healthcare needs, including general consultations, diagnostic tests, minor procedures, and sometimes specialist consultations.
-                    </font>
-                    </p>
-                    </body>
-                    </html>
-
+```
+Theatre
+```
 <html>
     <head>
         <title><b>MY CITY</b></title>
@@ -153,15 +143,37 @@ Local Residents or Authorities: Reach out to local residents or contact the Erod
                     </html>
 
 ```
+Inn
+```
+<html>
+    <head>
+        <title><b>MY CITY</b></title>
+    </head>   
+    <body bgcolor="green"> 
+        <h1 align="center">
+            <font color="black"><b>ERODE</b></font>
+            </h1>
+            <h3 align="center">
+                <font color="yellow"><b>INN RESORT</b></font>
+                </h3>
+                <hr size="3" color="red">
+                <p align="justify">
+                    <font face="georgia" size="5" color="white">
+                        "inn resort," it could be a type of accommodation that combines the features of an inn (typically a small lodging establishment offering basic services) with resort amenities (such as pools, restaurants, recreational facilities, etc.). However, without specific details or a location, it's challenging to provide precise information
+                    </font>
+                    </p>
+                    </body>
+                    </html>
+```
 
 
 ## OUTPUT
-![Screenshot 2024-04-04 084757](https://github.com/DHARSHINIYAA/NearMe/assets/149560172/e7d250dc-42ad-44f8-b4da-5c07e5e6bae8)
-![Screenshot 2024-04-04 084823](https://github.com/DHARSHINIYAA/NearMe/assets/149560172/400fbc61-53c4-4d53-be63-5057a538fc63)
-![Screenshot 2024-04-04 085016](https://github.com/DHARSHINIYAA/NearMe/assets/149560172/c3b15acf-f8e9-4cfd-9c98-d95d9da9c0a7)
-![Screenshot 2024-04-04 085043](https://github.com/DHARSHINIYAA/NearMe/assets/149560172/c376df7b-92b8-4d48-9fab-d36a196707ba)
-![Screenshot 2024-04-04 085400](https://github.com/DHARSHINIYAA/NearMe/assets/149560172/5bcd99a0-62c7-4db3-b6c4-4fc3840c9295)
-![Screenshot 2024-04-04 090357](https://github.com/DHARSHINIYAA/NearMe/assets/149560172/2de7733b-0d2f-410f-9aea-2ae232e1293a)
+![Screenshot 2024-04-04 084757](https://github.com/DHARSHINIYAA/NearMe/assets/149560172/341e25bf-3127-4829-800e-162e66c1f7af)
+![Screenshot 2024-04-04 085400](https://github.com/DHARSHINIYAA/NearMe/assets/149560172/1bdea9a3-2636-424a-878f-474fb291feb6)
+![Screenshot 2024-04-04 085016](https://github.com/DHARSHINIYAA/NearMe/assets/149560172/4c21b166-ed8b-4073-a2aa-b1f0fd7703a8)
+![Screenshot 2024-04-04 090357](https://github.com/DHARSHINIYAA/NearMe/assets/149560172/d67372fd-be32-409c-b658-337721c8e462)
+![Screenshot 2024-04-04 085043](https://github.com/DHARSHINIYAA/NearMe/assets/149560172/507deceb-af7a-4cb9-85ad-6f0c3002ee2a)
+![Screenshot 2024-04-04 084823](https://github.com/DHARSHINIYAA/NearMe/assets/149560172/0b9a0f12-a6d7-4eeb-a8ea-16513088f1af)
 
 
 
