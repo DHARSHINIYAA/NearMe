@@ -167,16 +167,13 @@ Inn
 ```
 
 
-## OUTPUT
-![Screenshot 2024-04-04 084757](https://github.com/DHARSHINIYAA/NearMe/assets/149560172/341e25bf-3127-4829-800e-162e66c1f7af)
-![Screenshot 2024-04-04 085400](https://github.com/DHARSHINIYAA/NearMe/assets/149560172/1bdea9a3-2636-424a-878f-474fb291feb6)
-![Screenshot 2024-04-04 085016](https://github.com/DHARSHINIYAA/NearMe/assets/149560172/4c21b166-ed8b-4073-a2aa-b1f0fd7703a8)
-![Screenshot 2024-04-04 090357](https://github.com/DHARSHINIYAA/NearMe/assets/149560172/d67372fd-be32-409c-b658-337721c8e462)
-![Screenshot 2024-04-04 085043](https://github.com/DHARSHINIYAA/NearMe/assets/149560172/507deceb-af7a-4cb9-85ad-6f0c3002ee2a)
-![Screenshot 2024-04-04 084823](https://github.com/DHARSHINIYAA/NearMe/assets/149560172/0b9a0f12-a6d7-4eeb-a8ea-16513088f1af)
+## OUTPUT:
+![Screenshot 2024-05-08 092435](https://github.com/DHARSHINIYAA/NearMe/assets/149560172/5b54690a-6860-4075-9a2d-dec95dacaa8b)
+![Screenshot 2024-05-08 092503](https://github.com/DHARSHINIYAA/NearMe/assets/149560172/b1d86688-4076-452a-92a8-34cc144d3740)
+![Screenshot 2024-05-08 093642](https://github.com/DHARSHINIYAA/NearMe/assets/149560172/d660d43b-d8f4-4fa7-ac3e-54643e465a55)
+![Screenshot 2024-05-08 092612](https://github.com/DHARSHINIYAA/NearMe/assets/149560172/14515c9c-dc2e-4eba-ad1d-db60e7906914)
+![Screenshot 2024-05-08 092633](https://github.com/DHARSHINIYAA/NearMe/assets/149560172/d17a4a89-e56d-4755-82e9-4efd21f8b5c1)
+![Screenshot 2024-05-08 092650](https://github.com/DHARSHINIYAA/NearMe/assets/149560172/ffc28c74-42cd-4007-97de-a78bf46b6f6e)
 
-
-
-
-## RESULT
+## RESULT:
 The program for implementing image maps using HTML is executed successfully.
